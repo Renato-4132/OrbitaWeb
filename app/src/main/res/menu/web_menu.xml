@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/azione_ricarica"
+        android:icon="@drawable/ic_refresh"
+        android:title="Ricarica"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/azione_browser"
+        android:icon="@drawable/ic_open"
+        android:title="Apri nel browser"
+        app:showAsAction="never" />
+</menu>
